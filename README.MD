@@ -27,19 +27,18 @@ contract address:
 
 junod tx wasm store julian.wasm --from deploy --fees 1500000ujuno --gas 20000000 -y
 
-tx hash: 1D4A433128CAD0BC49CF21A75BD836BC075FF9F0755FB6FE98DF0C0A96DCFB91
+tx hash: 
 
-code id: 4638
+code id: 
 
-https://www.mintscan.io/juno/tx/1D4A433128CAD0BC49CF21A75BD836BC075FF9F0755FB6FE98DF0C0A96DCFB91/?height=23140032
+
 
 *Migrate* 
 
 junod tx wasm migrate juno1fucsaa4mukx86z5sfxm3k3445eh8c4vcpejzu93457wufh4s6zms4qz6ra 4638 '{"migrate_msg":{}}' --from deploy --fees 1500000ujuno --gas 20000000 -y
 
-tx hash: A266305153292B054DA5AE7A6BB113C3EEE81C5C04E8D4C59648DB3473747A1C
+tx hash: 
 
-https://www.mintscan.io/juno/tx/A266305153292B054DA5AE7A6BB113C3EEE81C5C04E8D4C59648DB3473747A1C?height=23140104
 
 # Query Contract
 
