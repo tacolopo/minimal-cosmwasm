@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/john/minimal/target/debug/build/typenum-18502482e6929ed8/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/john/minimal/target/debug/build/typenum-18502482e6929ed8/out/op.rs
